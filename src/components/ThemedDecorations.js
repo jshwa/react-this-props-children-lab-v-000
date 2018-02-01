@@ -7,7 +7,7 @@ export default class ThemedDecorations extends React.Component{
       })
     })
     return (
-      
+      {themedChildren}
     )
   }
 }
